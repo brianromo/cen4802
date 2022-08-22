@@ -1,2 +1,2 @@
-# cen4802
+# repository for cen4802
 Brian Banfield modifying read.me
