@@ -1,2 +1,2 @@
 # cen4802
-Brian Bnafield modifying read.me
+Brian Banfield modifying read.me
